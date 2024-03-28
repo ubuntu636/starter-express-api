@@ -2,9 +2,11 @@ const express = require('express')
 const app = express()
 
 let s =`
-<h1>Home</h1>
 </br>
-<h1>Page</h1>
+<center>
+<h1>You Bith </h1>
+</center?
+
 `;
 let sathwik =`
 <h1>Here You Got the Right Page</h1>
